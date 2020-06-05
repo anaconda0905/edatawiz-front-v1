@@ -140,6 +140,29 @@
                         color: $bc;
                     }
                 }
+                .nav_demo{
+                    width: 100px;
+                    background: #273272;
+                    color: #fff;
+                    padding: 0;
+                    text-align: center;
+                    margin-left: 15px;
+                    color: #ffffff;
+                    font-size: 16px;
+                    font-weight: 600;
+                    line-height: 50px;
+                    overflow: hidden;
+                    text-transform: uppercase;
+                    border: 1px solid transparent;
+                    -webkit-transition: all 0.3s;
+                    transition: all 0.3s;
+                    z-index: 1;
+                    margin-top: 24px;
+                    &:hover, &:focus{
+                        color: #f6b60b;
+                    }
+                }
+
                 .nav_searchFrom{
                     width: 100px;
                     background: $bc;

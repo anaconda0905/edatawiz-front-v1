@@ -279,6 +279,26 @@ a, .btn, button {
     padding-left: 30px; }
     .header_aera .navbar-collapse .navbar-nav.navbar-right li a:hover, .header_aera .navbar-collapse .navbar-nav.navbar-right li a:focus {
       color: #f6b60b; }
+  .header_aera .navbar-collapse .navbar-nav.navbar-right li .nav_demo {
+    width: 100px;
+    background: #273272;
+    color: #fff;
+    padding: 0;
+    text-align: center;
+    margin-left: 15px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 50px;
+    overflow: hidden;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    z-index: 1;
+    margin-top: 24px; }
+    .header_aera .navbar-collapse .navbar-nav.navbar-right li .nav_demo:hover, .header_aera .navbar-collapse .navbar-nav.navbar-right li .nav_demo:focus {
+      color: #f6b60b; }
   .header_aera .navbar-collapse .navbar-nav.navbar-right li .nav_searchFrom {
     width: 100px;
     background: #f6b60b;
