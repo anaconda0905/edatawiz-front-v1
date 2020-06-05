@@ -34,6 +34,18 @@
                     padding-bottom: 90px;
                     // text-shadow: 2px 2px 0 #000;
                 }
+                h4{
+                    color: $bc;
+                    font: 1000 50px $roboto;
+                    text-shadow: 4px 4px 0 #000;
+                }
+                h2{
+                    color: #fff;
+                    font: 400 45px $roboto; 
+                    padding-top:15px;
+                    text-shadow: 3px 3px 0 #000;
+                }
+                
                 a{
                     font: 700 18px/59px $roboto;
                     width: 180px;
