@@ -387,8 +387,7 @@ a, .btn, button {
     left: 0; }
     .slider_area .slider_inner .camera_caption div h5 {
       color: #f6b60b;
-      font: 1000 60px "Roboto", sans-serif;
-      text-shadow: 2px 2px 0 #fff; }
+      font: 1000 60px "Roboto", sans-serif; }
     .slider_area .slider_inner .camera_caption div h3 {
       color: #fff;
       font: 400 45px "Roboto", sans-serif;
@@ -2181,8 +2180,7 @@ a, .btn, button {
   .slider_area .slider_inner .camera_caption div h5 {
     font: 400 40px "Roboto", sans-serif;
     padding-top: 10px;
-    padding-bottom: 20px;
-    text-shadow: 1px 1px 0 #fff; }
+    padding-bottom: 20px; }
 
   .slider_area .slider_inner .camera_caption div h4 {
     font: 400 50px "Roboto", sans-serif;
