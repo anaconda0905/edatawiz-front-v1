@@ -1957,10 +1957,10 @@ a, .btn, button {
     right: 0px !important; }
 
   .slider_area .slider_inner .camera_next::after {
-    right: 105px; }
+    right: 15px; }
 
   .slider_area .slider_inner .camera_prev::after {
-    left: 105px; } }
+    left: 15px; } }
 @media (max-width: 1199px) {
   .slider_area .slider_inner .camera_next::after {
     right: 0px; }
